@@ -1,0 +1,8 @@
+{
+    "realm": "weather",
+    "bearer-only": true,
+    "auth-server-url": "http://host.docker.internal:8080",
+    "ssl-required": "external",
+    "resource": "resource-server",
+    "realmPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5GtZLotxzk3Gv3MJHZc6LFhd/LxN67+2uQ0D49EXDGhd2kbp3d5BuJ9JLtM9DWQtXBQNo7NXgZ8oPwhiaSmBdWVyEMOgy9y8JcW/Q0hDLMP1IrfVjprrVF0/F7BaADDN6gXy2+yplD8Qm2GDSwdu20ikBL7sMH0dkQdqNp9SMVhx+8jXQRI0Zb1VbkUYecc3QxGP76v57KDKQdIxnhdBazRzzGh7mxyrEztnu5+cz1MiTghHl028wPWzofN9cI+YA2SHAbsw0QdkcdHzTk/IlAK2DOgHz2qbQlD8wGs7TmjCmdZOE31uUs7OA5Pju5xPa29dxBoP63O7m4TwU/Z/awIDAQAB+bMOSkqn7bMlOUm6CXxA7RrjKuDj8mseqabXNjnPgAPL6MQOWtO4RFMdPQX11fYShXrK9ELS3CqN3RrXBazzwNsreKxfuMtR4vtZCVJHYaZZMiLmWU1G5Xsh/tHje2AVLPkt3ncchyKsrkCdP9PWsYK5dMkKsDbA03JOq7azDDlhqgT2pUNB3dZ1b9sKQXqPC6ZSieVJcm6WAj8DJcjoYOgZjgm2/8X1fwIDAQAB"
+  }
